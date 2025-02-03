@@ -1,5 +1,5 @@
 # Sistema de Administracion de Usuarios
-Desarrollo de un sistema escalable para la administración y gestión de usuarios con diferentes roles.
+A partir del sistema de LogIn realizado anteriormente (https://github.com/JBBallini/Login-Java), se desarrolló un sistema escalable para la administración y gestión de usuarios con diferentes roles.
 
 ## Tecnologías y Conceptos Usados
 - JAVA
